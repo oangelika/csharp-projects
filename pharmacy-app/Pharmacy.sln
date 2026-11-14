@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pharmacy", "Pharmacy\Pharmacy.csproj", "{BEE42C24-E33D-487F-948A-3477CE345116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PharmacyTests", "PharmacyTests\PharmacyTests.csproj", "{BD144A86-DACC-4E1C-9E53-B2C06334C296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE42C24-E33D-487F-948A-3477CE345116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE42C24-E33D-487F-948A-3477CE345116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE42C24-E33D-487F-948A-3477CE345116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE42C24-E33D-487F-948A-3477CE345116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD144A86-DACC-4E1C-9E53-B2C06334C296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD144A86-DACC-4E1C-9E53-B2C06334C296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD144A86-DACC-4E1C-9E53-B2C06334C296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD144A86-DACC-4E1C-9E53-B2C06334C296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
